@@ -8,7 +8,23 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 50px;
    
+}
+.navbar .g3{
+    font-size: 3rem;
+    font-weight: 700;
+} 
+.banner-section .btn{
+    color: white;
+    background-color: orange;
+    border-radius: 8px;
+    border: none;
+    font-size: 1.2rem;
+    margin: 20px;
+    padding: 10px;
+    width: 180px;
+    height: 64px;
 }
 .ul-list{
     display: flex;
@@ -25,23 +41,29 @@
     list-style: none;
 }
 .heading{
-padding: 25px 40px;
+
 background-color: antiquewhite;
+width: 1920px;
+height: 1322px;
 }.banner{
     width: 100%;
-    padding: 3rem auto;
+    margin: 5rem auto;
 }
 .banner-section{
     text-align: center;
     margin: 20px auto;
-    width: 700px;
+    width: 862px;
+    height:225px ;
     
 }
 .image img{
     width: 100%;
     border-radius: 8px;
-    margin: 2rem  0rem 0rem 0rem ;
+   margin-top: 1rem ;
 }
 .banner-title{
     padding: 15px;
+}
+.sub-header{
+    margin: 0px 240px;
 }
