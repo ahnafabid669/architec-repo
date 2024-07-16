@@ -27,4 +27,21 @@
 .heading{
 padding: 25px 40px;
 background-color: antiquewhite;
+}.banner{
+    width: 100%;
+    padding: 3rem auto;
+}
+.banner-section{
+    text-align: center;
+    margin: 20px auto;
+    width: 700px;
+    
+}
+.image img{
+    width: 100%;
+    border-radius: 8px;
+    margin: 2rem  0rem 0rem 0rem ;
+}
+.banner-title{
+    padding: 15px;
 }
