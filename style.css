@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.navbar{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+.ul-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+.ul-list li >a{
+    text-decoration: none;
+    color: rgb(56, 55, 55);
+    
+}
+.ul-list li{
+    list-style: none;
+}
+.heading{
+padding: 25px 40px;
+background-color: antiquewhite;
+}
